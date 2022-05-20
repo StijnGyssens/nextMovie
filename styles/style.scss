@@ -1,0 +1,13 @@
+.moviegrid{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.detail{
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
